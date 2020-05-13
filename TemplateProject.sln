@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateJob", "TemplateJob\TemplateJob.csproj", "{79EAEC8E-7931-4FB0-A264-F960D23E3247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bets.SinhronizeDataJob", "..\..\Desktop\projects\Bets\Bets.SinhronizeData\Bets.SinhronizeDataJob.csproj", "{4B50368D-341A-4321-9E3C-68B6BFF891D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79EAEC8E-7931-4FB0-A264-F960D23E3247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EAEC8E-7931-4FB0-A264-F960D23E3247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EAEC8E-7931-4FB0-A264-F960D23E3247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EAEC8E-7931-4FB0-A264-F960D23E3247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B50368D-341A-4321-9E3C-68B6BFF891D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B50368D-341A-4321-9E3C-68B6BFF891D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B50368D-341A-4321-9E3C-68B6BFF891D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B50368D-341A-4321-9E3C-68B6BFF891D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

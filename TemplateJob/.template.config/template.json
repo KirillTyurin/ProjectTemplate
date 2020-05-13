@@ -1,0 +1,12 @@
+{
+    "author": "Jimmy Nitron",
+    "classifications": [ "Console" ],
+    "name": "Job Tempate",
+    "identity": "Template.Job",        
+    "shortName": "jobconsole",                 
+    "tags": {
+        "language": "C#"                       
+    },
+    "sourceName": "TemplateJob",     
+    "preferNameDirectory" : "true"
+}
